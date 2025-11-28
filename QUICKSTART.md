@@ -41,7 +41,7 @@ import (
 func main() {
     // 1. 创建配置
     config := gsalary.NewConfig()
-    config.AppID = "6bc14a48-e617-4f8c-ae10-9105dcad37ad"
+    config.AppID = "6bc14a48-e6xxxxxxx0-9105dcad37ad"
     config.Endpoint = "https://api-test.gsalary.com"
     
     // 2. 加载密钥
